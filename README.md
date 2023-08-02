@@ -1,3 +1,3 @@
-# tobiasziegler.dev
+# CSS Grid Lab
 
-Personal portfolio website build with Vite ⚡️
+Responsive layout built with CSS Grid

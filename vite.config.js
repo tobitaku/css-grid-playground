@@ -6,8 +6,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        impressum: resolve(__dirname, 'impressum/index.html'),
-        datenschutz: resolve(__dirname, 'datenschutz/index.html'),
       },
     },
   },
